@@ -1,4 +1,4 @@
-_[Dê uma olhada em como ficou meu projeto!](https://joaofelipelliccione.github.io/trybe_frontend_2-movie_cards/)_
+👨‍💻 _[Dê uma olhada em como ficou meu projeto!](https://joaofelipelliccione.github.io/trybe_frontend_2-movie_cards/)_
 
 ### Termos e acordos
 
