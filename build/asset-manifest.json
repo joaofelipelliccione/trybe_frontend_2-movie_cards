@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/trybe_frontend_2-movie_cards/static/css/main.a046a3d6.chunk.css",
+    "main.js": "/trybe_frontend_2-movie_cards/static/js/main.fcc20d6c.chunk.js",
+    "main.js.map": "/trybe_frontend_2-movie_cards/static/js/main.fcc20d6c.chunk.js.map",
+    "runtime-main.js": "/trybe_frontend_2-movie_cards/static/js/runtime-main.fae02bea.js",
+    "runtime-main.js.map": "/trybe_frontend_2-movie_cards/static/js/runtime-main.fae02bea.js.map",
+    "static/js/2.9a6a2542.chunk.js": "/trybe_frontend_2-movie_cards/static/js/2.9a6a2542.chunk.js",
+    "static/js/2.9a6a2542.chunk.js.map": "/trybe_frontend_2-movie_cards/static/js/2.9a6a2542.chunk.js.map",
+    "index.html": "/trybe_frontend_2-movie_cards/index.html",
+    "precache-manifest.4da7fb06d82145638337ae7e5daacdcb.js": "/trybe_frontend_2-movie_cards/precache-manifest.4da7fb06d82145638337ae7e5daacdcb.js",
+    "service-worker.js": "/trybe_frontend_2-movie_cards/service-worker.js",
+    "static/css/main.a046a3d6.chunk.css.map": "/trybe_frontend_2-movie_cards/static/css/main.a046a3d6.chunk.css.map",
+    "static/media/App.css": "/trybe_frontend_2-movie_cards/static/media/background.1a4de1ea.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fae02bea.js",
+    "static/js/2.9a6a2542.chunk.js",
+    "static/css/main.a046a3d6.chunk.css",
+    "static/js/main.fcc20d6c.chunk.js"
+  ]
+}
