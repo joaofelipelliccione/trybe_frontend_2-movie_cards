@@ -1,3 +1,5 @@
+_[Página do Projeto Desenvolvido por João Felipe Pelliccione](https://joaofelipelliccione.github.io/trybe_frontend_2-movie_cards/)_
+
 ### Termos e acordos
 
 Ao iniciar este projeto, você concorda com as diretrizes do Código de Ética e Conduta e do
